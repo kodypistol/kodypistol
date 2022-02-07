@@ -15,7 +15,7 @@
 
 - 📫 reach me at: **contactpro@adelsanaa.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x2-bc1cKsoLYGiBbQvxVqQOzg4AbUix9/view](https://drive.google.com/file/d/1x2-bc1cKsoLYGiBbQvxVqQOzg4AbUix9/view)
+- 📄 my resume (CV): [https://drive.google.com/file/d/1x2-bc1cKsoLYGiBbQvxVqQOzg4AbUix9/view](https://drive.google.com/file/d/1x2-bc1cKsoLYGiBbQvxVqQOzg4AbUix9/view)
 
 - ⚡ fun fact **hummmm... let me think about it just a sec**
 
