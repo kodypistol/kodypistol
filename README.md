@@ -1,5 +1,5 @@
 <h1 align="center">hello there, I'm kody (or adel sanaa)</h1>
-<h3 align="center">a web developer from France. I pretend to become on of the most valuable developer in the world. incredible, no? haha!</h3>
+<h3 align="center">a web developer from France. i pretend to become on of the most valuable developer in the world. incredible, no? haha!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodypistol&label=Profile%20views&color=0e75b6&style=flat" alt="kodypistol" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kodydev" target="blank"><img src="https://img.shields.io/twitter/follow/kodydev?logo=twitter&style=for-the-badge" alt="kodydev" /></a> </p>
 
-- 🔭 I’m currently working on ["PNL - La Discographie" project. it will be incredible, trust me! it is my first project on webgl](https://github.com/kodypistol/pnl-ladiscographie)
+- 🔭 i’m currently working on ["PNL - La Discographie" project. it will be incredible, trust me! it is my first project on webgl](https://github.com/kodypistol/pnl-ladiscographie)
 
 - 💬 i am currently learning **webgl, three.js, react.js**
 
