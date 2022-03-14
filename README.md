@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodypistol&label=Profile%20views&color=0e75b6&style=flat" alt="kodypistol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kodypistol" alt="kodypistol" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kodydev" target="blank"><img src="https://img.shields.io/twitter/follow/kodydev?logo=twitter&style=for-the-badge" alt="kodydev" /></a> </p>
 
 - 🔭 i’m currently working on ["PNL - La Discographie" project. it will be incredible, trust me! it is my first project on webgl](https://github.com/kodypistol/pnl-ladiscographie)
